@@ -8,6 +8,8 @@ Yo haré lo que no puedas hacer. ¡Y tú harás lo que yo no pueda hacer!
 
 ![one pice](./ponce.jpg)
 
+porque las pruebas son importantes-- aseguir
+
 <style>
 body{
     background: lightgrey;
