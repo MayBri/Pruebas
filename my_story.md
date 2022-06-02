@@ -4,7 +4,9 @@ No te atrevas a insultar a mi capitán delante de mí. ¡Él jamás pensaría en
 
 ![one piece](./pace.png)
 
+Yo haré lo que no puedas hacer. ¡Y tú harás lo que yo no pueda hacer!
 
+![one pice](./ponce.jpg)
 
 <style>
 body{
