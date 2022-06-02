@@ -6,6 +6,8 @@ No te atrevas a insultar a mi capitán delante de mí. ¡Él jamás pensaría en
 
 Yo haré lo que no puedas hacer. ¡Y tú harás lo que yo no pueda hacer!
 
+![one piece](./poce.jpg)
+
 <style>
 body{
     background: lightgrey;
